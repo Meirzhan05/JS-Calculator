@@ -1,7 +1,10 @@
-# Calculator Project
+# Calculator
 
 ## Overview
 This project is a simple yet powerful web-based calculator. It's designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+## Live Preview
+Experience the live version of the project here: [JS-Calculator Live Preview](https://meirzhan05.github.io/JS-Calculator/)
 
 ## Features
 - Basic arithmetic operations: Add, Subtract, Multiply, Divide
